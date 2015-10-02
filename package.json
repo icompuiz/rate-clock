@@ -1,0 +1,15 @@
+{
+  "name": "rate-clock",
+  "description": "A library used to get the rate of a repetitive or long running operation.",
+  "author": "Isioma Nnodum <isioma.nnodum@gmail.com>",
+  "version": "0.0.0",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/icompuiz/rate-clock.git"
+  },
+  "homepage": "https://github.com/icompuiz/rate-clock",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
